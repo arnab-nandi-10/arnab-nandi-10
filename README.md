@@ -1,32 +1,14 @@
-<h1 align="center">Hi 👋, I'm Arnab Nandi</h1>
-
-<h2 align="center">
-I’m a computer science student exploring open-source and cloud-based systems.<br>
-I enjoy working close to real codebases — reading, fixing, and gradually contributing.
-</h2>
+```md
 
 
+                                                       Hi 👋, I'm Arnab 
 
-<h2 align="center">Open source · Cloud · Frontend applications</h2>
+                            I’m a computer science student exploring open-source and cloud-based systems.
+                       I enjoy working close to real codebases — reading, fixing, and gradually contributing.
 
+                                          Open source · Cloud · Frontend applications
+```
 
-
-<!-- <h2 align="center">Projects</h2>
-
-<p align="center">Mini CRM — lightweight CRM with REST APIs and database design</p>
-<p align="center">Banking Security System — secure MERN backend with authentication</p>
-<p align="center">Spotify Clone — frontend-focused web application</p> -->
-
-
-
-<!-- <h2 align="center">Open Source Journey <em>(In Progress)</em></h2>
-
-<p align="center">Exploring open-source issues and repositories</p>
-<p align="center">Fixing bugs, improving documentation, and learning workflows</p>
-<p align="center">Understanding how real production repositories are maintained</p>
-<p align="center">Preparing for larger community contributions</p>
-
-<p align="center"><em>“Open source taught me more than tutorials ever could.”</em></p> -->
 
 
 
