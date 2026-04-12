@@ -48,9 +48,9 @@
   <img src="https://img.shields.io/badge/Email-arnabnandi287%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/Arnab-nandi-10">
+<!-- <a href="https://github.com/Arnab-nandi-10">
   <img src="https://img.shields.io/badge/GitHub-Arnab--nandi--10-181717?style=flat&logo=github&logoColor=white"/>
-</a>
+</a> -->
 
 <a href="https://www.linkedin.com/in/arnab-nandi-acc/">
   <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
