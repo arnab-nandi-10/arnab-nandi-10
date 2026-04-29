@@ -6,7 +6,7 @@
                             I’m a computer science student exploring open-source and cloud-based systems.
                        I enjoy working close to real codebases — reading, fixing, and gradually contributing.
 
-                                          Open source · Cloud · Frontend applications
+                                          Open source · Cloud · Full Stack Developer 
 ```
 
 
